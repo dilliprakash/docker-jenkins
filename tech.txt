@@ -1,6 +1,10 @@
 devops
 aws
 java
+<<<<<<< HEAD
 c+
 python
 powerbi 
+=======
+c+
+>>>>>>> parent of 6dc652c (python)
