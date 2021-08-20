@@ -1,6 +1,0 @@
-devops
-aws
-java
-c+
-phyton
-ansible
