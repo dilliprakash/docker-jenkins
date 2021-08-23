@@ -3,5 +3,9 @@ aws
 java
 c+
 phyton
+<<<<<<< HEAD
 git
 docker
+=======
+ansible
+>>>>>>> task-1
